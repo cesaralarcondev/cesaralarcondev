@@ -23,6 +23,6 @@
 |   cat   | Prints the contents of a file given its path. |
 
 ## **Connect with me:**
----
+
 <a href="https://linkedin.com/in/cesalarcon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cesalarcon/" height="30" width="40" /></a>
 <a href="https://github.com/cesaralarcondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/cesaralarcondev" height="30" width="40" /></a>
